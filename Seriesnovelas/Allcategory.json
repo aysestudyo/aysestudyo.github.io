@@ -1,0 +1,628 @@
+{
+  "categories": [
+    {
+      "Cid": 218,
+      "CatName": "LOVE IS IN THE AIR",
+      "Catimage": "0388-2021-02-03.jpg",
+      "VideoCount": 27
+    },
+    {
+      "Cid": 217,
+      "CatName": "Amor y Travesuras",
+      "Catimage": "2543-2021-02-03.jpg",
+      "VideoCount": 30
+    },
+    {
+      "Cid": 216,
+      "CatName": "50 M2",
+      "Catimage": "4722-2021-02-03.jpg",
+      "VideoCount": 8
+    },
+    {
+      "Cid": 215,
+      "CatName": "Amores Inconclusos ",
+      "Catimage": "0300-2021-01-30.jpg",
+      "VideoCount": 8
+    },
+    {
+      "Cid": 214,
+      "CatName": "46 Destruido",
+      "Catimage": "0639-2021-01-30.jpg",
+      "VideoCount": 4
+    },
+    {
+      "Cid": 213,
+      "CatName": "Hercai Temporada 3",
+      "Catimage": "0397-2021-01-30.jpg",
+      "VideoCount": 15
+    },
+    {
+      "Cid": 211,
+      "CatName": "Corazones Huérfanos ",
+      "Catimage": "6454-2021-01-28.jpg",
+      "VideoCount": 34
+    },
+    {
+      "Cid": 209,
+      "CatName": "Matrimonio Por Sorpresa - en transmisión",
+      "Catimage": "4286-2021-01-28.jpg",
+      "VideoCount": 38
+    },
+    {
+      "Cid": 208,
+      "CatName": "Habitación 309",
+      "Catimage": "9563-2021-01-28.jpg",
+      "VideoCount": 64
+    },
+    {
+      "Cid": 207,
+      "CatName": "Meryem - en transmisión ",
+      "Catimage": "6180-2021-01-28.jpg",
+      "VideoCount": 65
+    },
+    {
+      "Cid": 206,
+      "CatName": "El Novio Perfecto",
+      "Catimage": "2433-2021-01-22.jpg",
+      "VideoCount": 8
+    },
+    {
+      "Cid": 204,
+      "CatName": "Amor en Guerra",
+      "Catimage": "7688-2021-01-22.jpg",
+      "VideoCount": 46
+    },
+    {
+      "Cid": 203,
+      "CatName": "La Hija del Embjador",
+      "Catimage": "2783-2021-01-21.jpg",
+      "VideoCount": 61
+    },
+    {
+      "Cid": 202,
+      "CatName": "El Precio del Amor",
+      "Catimage": "8180-2021-01-21.jpg",
+      "VideoCount": 13
+    },
+    {
+      "Cid": 201,
+      "CatName": "Siyah Inci",
+      "Catimage": "4346-2021-01-12.jpg",
+      "VideoCount": 25
+    },
+    {
+      "Cid": 200,
+      "CatName": " Guvercin",
+      "Catimage": "3665-2021-01-12.jpg",
+      "VideoCount": 16
+    },
+    {
+      "Cid": 199,
+      "CatName": "Toma mi mano",
+      "Catimage": "5365-2021-01-12.jpg",
+      "VideoCount": 31
+    },
+    {
+      "Cid": 198,
+      "CatName": "Mi Mentira Más Dulce - en transmisión",
+      "Catimage": "6027-2020-12-07.jpg",
+      "VideoCount": 74
+    },
+    {
+      "Cid": 197,
+      "CatName": "La Cenicienta de Estambul - en transmision",
+      "Catimage": "4247-2020-12-08.jpg",
+      "VideoCount": 37
+    },
+    {
+      "Cid": 195,
+      "CatName": "Dolunay",
+      "Catimage": "1174-2020-12-08.jpg",
+      "VideoCount": 82
+    },
+    {
+      "Cid": 194,
+      "CatName": "La venganza de Iffet",
+      "Catimage": "0554-2020-12-08.jpg",
+      "VideoCount": 87
+    },
+    {
+      "Cid": 193,
+      "CatName": "Wounded Birds - en transmision",
+      "Catimage": "3605-2020-10-13.jpg",
+      "VideoCount": 200
+    },
+    {
+      "Cid": 192,
+      "CatName": "¿Y tu Quien eres?",
+      "Catimage": "2316-2020-10-12.jpg",
+      "VideoCount": 39
+    },
+    {
+      "Cid": 191,
+      "CatName": "La Señora Fazilet y sus hijas",
+      "Catimage": "2518-2020-10-12.jpg",
+      "VideoCount": 100
+    },
+    {
+      "Cid": 190,
+      "CatName": "Cennet",
+      "Catimage": "4450-2020-10-11.jpg",
+      "VideoCount": 161
+    },
+    {
+      "Cid": 189,
+      "CatName": "Tierra Amarga - en transmisión",
+      "Catimage": "8093-2020-10-11.jpg",
+      "VideoCount": 216
+    },
+    {
+      "Cid": 188,
+      "CatName": "Hayat Amor Sin Palabras",
+      "Catimage": "3190-2020-10-08.jpg",
+      "VideoCount": 81
+    },
+    {
+      "Cid": 187,
+      "CatName": "Gülperi, una madre contra la injusticia",
+      "Catimage": "2431-2020-10-08.jpg",
+      "VideoCount": 88
+    },
+    {
+      "Cid": 186,
+      "CatName": "¿Qué culpa tiene Fatmagül?",
+      "Catimage": "2709-2020-10-08.jpg",
+      "VideoCount": 113
+    },
+    {
+      "Cid": 185,
+      "CatName": "El Secreto de Feriha",
+      "Catimage": "0879-2020-10-08.jpg",
+      "VideoCount": 115
+    },
+    {
+      "Cid": 184,
+      "CatName": "20 Minutos",
+      "Catimage": "6426-2020-10-08.jpg",
+      "VideoCount": 59
+    },
+    {
+      "Cid": 183,
+      "CatName": "En todas partes tu",
+      "Catimage": "1036-2020-10-06.jpg",
+      "VideoCount": 50
+    },
+    {
+      "Cid": 182,
+      "CatName": "Selim y Sahra",
+      "Catimage": "5217-2020-10-06.jpg",
+      "VideoCount": 35
+    },
+    {
+      "Cid": 181,
+      "CatName": "El Gran Imperio Otomano",
+      "Catimage": "8958-2020-10-06.jpg",
+      "VideoCount": 6
+    },
+    {
+      "Cid": 180,
+      "CatName": "The Gift",
+      "Catimage": "8949-2020-10-06.jpg",
+      "VideoCount": 8
+    },
+    {
+      "Cid": 179,
+      "CatName": "Girasol - Gunebakan",
+      "Catimage": "5258-2020-10-06.jpg",
+      "VideoCount": 10
+    },
+    {
+      "Cid": 178,
+      "CatName": "La Fuerza del Amor",
+      "Catimage": "8102-2020-10-06.jpg",
+      "VideoCount": 12
+    },
+    {
+      "Cid": 177,
+      "CatName": "Seven Ne Yapmaz",
+      "Catimage": "2159-2020-10-06.jpg",
+      "VideoCount": 11
+    },
+    {
+      "Cid": 176,
+      "CatName": "Hercai",
+      "Catimage": "1283-2020-10-05.jpg",
+      "VideoCount": 132
+    },
+    {
+      "Cid": 175,
+      "CatName": "Amor a Segunda Vista",
+      "Catimage": "5161-2020-10-04.png",
+      "VideoCount": 152
+    },
+    {
+      "Cid": 174,
+      "CatName": "Sevdam Alabora",
+      "Catimage": "8373-2020-09-30.jpg",
+      "VideoCount": 18
+    },
+    {
+      "Cid": 173,
+      "CatName": "SELIN",
+      "Catimage": "8678-2020-09-30.jpg",
+      "VideoCount": 20
+    },
+    {
+      "Cid": 172,
+      "CatName": "RACON",
+      "Catimage": "0087-2020-09-30.jpg",
+      "VideoCount": 17
+    },
+    {
+      "Cid": 171,
+      "CatName": "CRASH",
+      "Catimage": "9713-2020-09-30.jpg",
+      "VideoCount": 68
+    },
+    {
+      "Cid": 170,
+      "CatName": "Arkadaslar Iyidir",
+      "Catimage": "5501-2020-09-30.jpg",
+      "VideoCount": 39
+    },
+    {
+      "Cid": 169,
+      "CatName": "Ariza (Ali Riza)",
+      "Catimage": "8805-2020-09-30.jpg",
+      "VideoCount": 4
+    },
+    {
+      "Cid": 168,
+      "CatName": " Amor de Contrabando",
+      "Catimage": "5371-2020-09-30.jpg",
+      "VideoCount": 37
+    },
+    {
+      "Cid": 167,
+      "CatName": "8 GUN",
+      "Catimage": "2482-2020-09-29.jpg",
+      "VideoCount": 28
+    },
+    {
+      "Cid": 166,
+      "CatName": "La venganza ",
+      "Catimage": "8909-2020-08-27.jpg",
+      "VideoCount": 13
+    },
+    {
+      "Cid": 165,
+      "CatName": "Gonul",
+      "Catimage": "8223-2020-08-06.jpg",
+      "VideoCount": 16
+    },
+    {
+      "Cid": 101,
+      "CatName": "Una Mujer DesconoCida",
+      "Catimage": "0065-2020-04-25.jpg",
+      "VideoCount": 77
+    },
+    {
+      "Cid": 97,
+      "CatName": "Inadina Ask Amor Obstinado",
+      "Catimage": "1256-2020-03-21.jpg",
+      "VideoCount": 93
+    },
+    {
+      "Cid": 96,
+      "CatName": "Dulce Venganza",
+      "Catimage": "5584-2020-03-14.jpg",
+      "VideoCount": 58
+    },
+    {
+      "Cid": 95,
+      "CatName": "Amor y Castigo",
+      "Catimage": "1675-2020-03-09.jpg",
+      "VideoCount": 43
+    },
+    {
+      "Cid": 93,
+      "CatName": "Fugitivo - kacak",
+      "Catimage": "1414-2020-03-05.jpg",
+      "VideoCount": 50
+    },
+    {
+      "Cid": 92,
+      "CatName": "Huerfanas",
+      "Catimage": "7985-2020-02-17.jpg",
+      "VideoCount": 49
+    },
+    {
+      "Cid": 91,
+      "CatName": "Secretos Prohibidos",
+      "Catimage": "1046-2020-02-12.jpg",
+      "VideoCount": 41
+    },
+    {
+      "Cid": 88,
+      "CatName": "Mar Negro",
+      "Catimage": "9503-2020-02-07.jpg",
+      "VideoCount": 201
+    },
+    {
+      "Cid": 78,
+      "CatName": "Kuzgun",
+      "Catimage": "8865-2020-02-04.jpg",
+      "VideoCount": 48
+    },
+    {
+      "Cid": 77,
+      "CatName": "Nido de Viboras",
+      "Catimage": "6950-2020-02-03.jpg",
+      "VideoCount": 20
+    },
+    {
+      "Cid": 76,
+      "CatName": "Yeter",
+      "Catimage": "7031-2020-02-02.jpg",
+      "VideoCount": 134
+    },
+    {
+      "Cid": 73,
+      "CatName": "Doctor Milagro",
+      "Catimage": "2722-2020-02-02.jpg",
+      "VideoCount": 18
+    },
+    {
+      "Cid": 70,
+      "CatName": "El Engaño",
+      "Catimage": "0951-2020-02-01.jpg",
+      "VideoCount": 26
+    },
+    {
+      "Cid": 69,
+      "CatName": "Esposa Joven",
+      "Catimage": "5231-2020-01-31.jpg",
+      "VideoCount": 96
+    },
+    {
+      "Cid": 68,
+      "CatName": "The Promise",
+      "Catimage": "2020-2020-01-28.jpg",
+      "VideoCount": 10
+    },
+    {
+      "Cid": 65,
+      "CatName": "Sura Y Seyit",
+      "Catimage": "1027-2020-01-27.jpg",
+      "VideoCount": 46
+    },
+    {
+      "Cid": 58,
+      "CatName": "Guerra de Rosas",
+      "Catimage": "0319-2020-01-04.jpg",
+      "VideoCount": 51
+    },
+    {
+      "Cid": 57,
+      "CatName": "Pajaro",
+      "Catimage": "6363-2020-01-03.jpg",
+      "VideoCount": 136
+    },
+    {
+      "Cid": 56,
+      "CatName": "Toma mi mano",
+      "Catimage": "0863-2020-01-03.jpg",
+      "VideoCount": 161
+    },
+    {
+      "Cid": 55,
+      "CatName": "Te Alquilo Mi Amor",
+      "Catimage": "0627-2019-10-08.png",
+      "VideoCount": 158
+    },
+    {
+      "Cid": 54,
+      "CatName": "Sila cautiva por amor ",
+      "Catimage": "1541-2019-10-03.jpg",
+      "VideoCount": 154
+    },
+    {
+      "Cid": 53,
+      "CatName": "Madre",
+      "Catimage": "5791-2019-10-03.jpg",
+      "VideoCount": 98
+    },
+    {
+      "Cid": 52,
+      "CatName": "Identidad Oculta",
+      "Catimage": "7112-2019-07-12.png",
+      "VideoCount": 30
+    },
+    {
+      "Cid": 50,
+      "CatName": "En el Nombre de la FeliCidad",
+      "Catimage": "1647-2019-07-02.png",
+      "VideoCount": 34
+    },
+    {
+      "Cid": 46,
+      "CatName": "Rivales de Sangre",
+      "Catimage": "4133-2019-04-21.png",
+      "VideoCount": 32
+    },
+    {
+      "Cid": 44,
+      "CatName": "Nueva Novia",
+      "Catimage": "9139-2019-02-19.png",
+      "VideoCount": 45
+    },
+    {
+      "Cid": 43,
+      "CatName": "El Pañuelo Rojo",
+      "Catimage": "3453-2019-01-31.png",
+      "VideoCount": 88
+    },
+    {
+      "Cid": 42,
+      "CatName": "Alas de Amor",
+      "Catimage": "2185-2019-01-31.png",
+      "VideoCount": 65
+    },
+    {
+      "Cid": 41,
+      "CatName": "El Protector de Estambul",
+      "Catimage": "5696-2018-12-25.png",
+      "VideoCount": 11
+    },
+    {
+      "Cid": 38,
+      "CatName": "Elif Temporada 2",
+      "Catimage": "6662-2018-06-06.png",
+      "VideoCount": 176
+    },
+    {
+      "Cid": 37,
+      "CatName": "¿Quien se robo mi vida?",
+      "Catimage": "2618-2018-04-08.png",
+      "VideoCount": 229
+    },
+    {
+      "Cid": 36,
+      "CatName": "Amar es primavera",
+      "Catimage": "5774-2018-04-08.png",
+      "VideoCount": 64
+    },
+    {
+      "Cid": 35,
+      "CatName": "Elif Temporada 1",
+      "Catimage": "8296-2018-04-08.png",
+      "VideoCount": 185
+    },
+    {
+      "Cid": 33,
+      "CatName": "Maral",
+      "Catimage": "7785-2018-04-08.png",
+      "VideoCount": 35
+    },
+    {
+      "Cid": 31,
+      "CatName": "Inolvidable",
+      "Catimage": "2953-2018-04-08.png",
+      "VideoCount": 119
+    },
+    {
+      "Cid": 29,
+      "CatName": "Dinero negro - Kara Para Aşk",
+      "Catimage": "7940-2018-04-08.png",
+      "VideoCount": 169
+    },
+    {
+      "Cid": 28,
+      "CatName": "Medcezir",
+      "Catimage": "1672-2018-04-08.png",
+      "VideoCount": 157
+    },
+    {
+      "Cid": 27,
+      "CatName": "Huerfanas",
+      "Catimage": "0730-2018-04-03.png",
+      "VideoCount": 102
+    },
+    {
+      "Cid": 24,
+      "CatName": "Entre dos amores",
+      "Catimage": "0813-2018-04-03.png",
+      "VideoCount": 44
+    },
+    {
+      "Cid": 23,
+      "CatName": "Amor prohibido",
+      "Catimage": "3719-2018-04-03.png",
+      "VideoCount": 166
+    },
+    {
+      "Cid": 22,
+      "CatName": "Kara Sevda",
+      "Catimage": "4343-2018-04-03.png",
+      "VideoCount": 78
+    },
+    {
+      "Cid": 21,
+      "CatName": "Las mil y una noches",
+      "Catimage": "0049-2018-04-03.png",
+      "VideoCount": 175
+    },
+    {
+      "Cid": 20,
+      "CatName": "Kösem, la sultana",
+      "Catimage": "2944-2018-04-03.png",
+      "VideoCount": 115
+    },
+    {
+      "Cid": 18,
+      "CatName": "El nombre de la feliCidad",
+      "Catimage": "8324-2018-04-03.png",
+      "VideoCount": 35
+    },
+    {
+      "Cid": 17,
+      "CatName": "Ezel",
+      "Catimage": "4244-2018-04-03.png",
+      "VideoCount": 168
+    },
+    {
+      "Cid": 14,
+      "CatName": "Hasta la Muerte (Ölene Kadar)",
+      "Catimage": "0316-2018-04-03.png",
+      "VideoCount": 20
+    },
+    {
+      "Cid": 13,
+      "CatName": "Sila",
+      "Catimage": "8129-2018-04-03.png",
+      "VideoCount": 47
+    },
+    {
+      "Cid": 12,
+      "CatName": "Gönülçelen",
+      "Catimage": "8744-2018-04-03.png",
+      "VideoCount": 113
+    },
+    {
+      "Cid": 10,
+      "CatName": "No te enamores",
+      "Catimage": "0083-2018-04-03.png",
+      "VideoCount": 10
+    },
+    {
+      "Cid": 9,
+      "CatName": "Alas Rotas – Kanatsiz Kuslar",
+      "Catimage": "9873-2018-04-03.png",
+      "VideoCount": 145
+    },
+    {
+      "Cid": 8,
+      "CatName": "Karadayi",
+      "Catimage": "1644-2018-04-03.png",
+      "VideoCount": 142
+    },
+    {
+      "Cid": 4,
+      "CatName": "Amor y Castigo – Ask ve Ceza",
+      "Catimage": "2139-2018-04-03.png",
+      "VideoCount": 113
+    },
+    {
+      "Cid": 2,
+      "CatName": "Mi ultimo deseo",
+      "Catimage": "0890-2018-04-03.png",
+      "VideoCount": 104
+    },
+    {
+      "Cid": 1,
+      "CatName": "Lindas y pequeñas mentirosas",
+      "Catimage": "2509-2018-04-03.png",
+      "VideoCount": 33
+    }
+  ]
+}
